@@ -11,6 +11,7 @@ include("config.php");
 
 <!-- youtube link: https://www.youtube.com/watch?v=eyHJNyACVf8 -->
 <!-- inset query mane data database e store hoa jbe -->
+<!-- link: https://technosmarter.com/ -->
 
 </head>
 <body>
